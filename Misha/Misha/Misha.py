@@ -6,3 +6,4 @@ print(c/b)
 print(a)
 print("global here")
 #tipe
+#but stay
