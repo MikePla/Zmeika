@@ -1,7 +1,7 @@
 import random
-a=random.randint
-b=random.randint
-c=print(a*b)
-print(c/b)
+a=random.randint(1, 20)
+b=random.randint(1, 20)
 print(a)
+print(b)
+print(a*b)
 print("global here")
