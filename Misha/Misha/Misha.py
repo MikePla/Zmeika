@@ -4,4 +4,5 @@ b=random.randint
 c=print(a*b)
 print(c/b)
 print(a)
-print
+print("global here")
+#tipe
