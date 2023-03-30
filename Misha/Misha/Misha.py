@@ -7,3 +7,4 @@ print(a)
 print("global here")
 #tipe
 #but stay
+#vetka 2
