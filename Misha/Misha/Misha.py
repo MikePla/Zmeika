@@ -6,5 +6,5 @@ print(c/b)
 print(a)
 print("global here")
 #tipe
-#but stay
-#vetka 2
+#but staygfdfdg
+#vetka 2gfdfdg
